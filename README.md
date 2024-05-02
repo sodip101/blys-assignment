@@ -17,3 +17,13 @@ Step 4: Install project dependencies 📦
 Step 5: Start the sever 🚀
 
 - `npm run start`
+
+## Deployment URL
+
+### Main
+
+https://blys-assignment.vercel.app/
+
+### Verification Route
+
+https://blys-assignment.vercel.app/verifyCode
